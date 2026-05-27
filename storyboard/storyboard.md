@@ -43,8 +43,9 @@ Soph reaparece em cena de anime.
 ---
 
 ### 0:55 – 1:03 | Trecho de batida
-**Tipo:** Gameplay (mockup)  
-Vários trechos do jogo em corte rápido. Soph andando da esquerda para a direita.
+**Tipo:** Gameplay (mockup animado)  
+Soph andando da esquerda para a direita em diferentes cenários que se sobrepõem. Cada cenário entra como uma nova janela sobre a anterior, cada uma com uma cena distinta de gameplay. O ritmo das trocas segue a batida.  
+*(composição e ordem das janelas a definir na prática)*
 
 ---
 
