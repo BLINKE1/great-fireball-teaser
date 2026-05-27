@@ -49,8 +49,16 @@ Soph andando da esquerda para a direita em diferentes cenários que se sobrepõe
 
 ---
 
+### 1:04 | Ponto-chave — "po po po"
+**Tipo:** Gameplay (mockup)  
+A fonética da letra ("po po po") sincroniza com a mecânica central do jogo: o míssil mágico múltiplo.  
+Uma esfera paira no ar e dispara mísseis em 6 direções simultâneas. O eixo gira e, a cada ciclo, um novo disparo é acionado em 6 novas direções (rotacionadas). Monstros estão presentes na tela.  
+*(referência visual: rascunho do spoiler no projeto do jogo — trazer para cá)*
+
+---
+
 ## A definir
 - Texto e cor da tela escura (0:16–0:23)
-- Continuação do storyboard a partir de 1:03
+- Continuação do storyboard a partir de 1:04
 - Estilo visual das cenas de anime (referências)
 - Estilo visual dos mockups de gameplay
