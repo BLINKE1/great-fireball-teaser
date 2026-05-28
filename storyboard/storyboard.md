@@ -64,15 +64,9 @@ Segunda cena de gameplay com mísseis mágicos na tela, casando com o novo "po p
 
 ---
 
-### 1:18 – 1:33 | Rush da Soph
-**Tipo:** Anime  
-Uma ou mais cenas de Soph em rush: disparando mísseis e obliterando inimigos em sequência acelerada.
-
----
-
-### 1:34 | Pausa dramática — entrada do Boss
-**Tipo:** Anime  
-Som de pausa dramática na música. Um Boss dragão humanoide branco com detalhes dourados aterrissa bloqueando o avanço da Soph. O impacto da aterrissagem é tão brutal que ela é arremessada para trás.
+### 1:18 – 1:34 | Rush da Soph + entrada do Boss
+**Tipo:** Gameplay (mockup)  
+Soph em rush: disparando mísseis e obliterando inimigos. O Boss dragão humanoide branco com detalhes dourados aterrissa ocupando a tela inteira e arremessa Soph para a esquerda. Transição para anime com ela caindo em câmera lenta.
 
 ---
 
@@ -106,15 +100,53 @@ O corpo inteiro de Soph é tomado pelo brilho. A câmera vai se fechando no rost
 
 ---
 
-### 2:08 | Novo clímax — ponto-chave
+### 2:08 – 2:11 | Novo clímax — confronto com o Boss
 **Tipo:** Gameplay (mockup)  
-Volta ao gameplay. Soph com aura brilhante azul escapa de ataques poderosíssimos na vertical: raios dourados que sincronizam com o "pó pó pó" que retorna a partir daqui.
+Volta ao gameplay. Soph envolta em aura azul brilhante enfrenta o Boss dragão humanoide branco com detalhes dourados — ela é pequena, ele ocupa a tela inteira. O Boss lança raios dourados verticais do chão ao teto repetidamente. Soph escapa de todos com dash e blink (blink = último recurso para escapar de golpes impossíveis de parar, uma espécie de parry de movimento). Os blinks sincronizam com o "pó pó pó" de 2:08 a 2:11. Durante os escapes ela lança mísseis mágicos no Boss.
+
+---
+
+### 2:11 – 2:16 | Sequência de mísseis
+**Tipo:** Gameplay (mockup)  
+Soph dispara uma sequência de mísseis no Boss após escapar dos raios.
+
+---
+
+### 2:16 – 2:19 | Segundo escape — "po po po"
+**Tipo:** Gameplay (mockup)  
+O Boss volta com nova rajada de raios dourados verticais. Soph escapa novamente com dash e blink, casando com o "pó pó pó" desse trecho.
+
+---
+
+### 2:19 – 2:29 | Ataque concentrado
+**Tipo:** Gameplay (mockup)  
+Soph levita e concentra um ataque poderoso de míssil. O disparo culmina em 2:29.
+
+---
+
+### 2:29 – 2:54 | Galeria de Bosses
+**Tipo:** Anime / mockup  
+Sequência de cenas em corte rápido revelando spoilers de bosses — cada um mais imponente que o anterior.
+
+---
+
+### 2:54 – 3:08 | Retorno ao início — o grupo
+**Tipo:** Anime  
+A música volta ao ritmo do início. Cena espelhando a abertura: Soph de costas olhando para o horizonte, mas agora acompanhada — os irmãos e outros personagens que ajudam a protagonista estão ao lado dela.
+
+---
+
+### 3:08 | Gran finale — tela preta
+**Tipo:** Tela / texto  
+Corte seco sincronizado com a virada da música. Tela preta com escritas douradas:  
+**"COMING SOON"**
 
 ---
 
 ## A definir
 - Texto e cor da tela escura (0:16–0:23)
-- Continuação do storyboard a partir de 2:08
 - Construção de cena do segundo "po po po" (1:10–1:18)
+- Identidade visual dos bosses da galeria (2:29–2:54)
+- Quais personagens aparecem na cena final do grupo (2:54–3:08)
 - Estilo visual das cenas de anime (referências)
 - Estilo visual dos mockups de gameplay
