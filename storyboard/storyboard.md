@@ -64,15 +64,9 @@ Segunda cena de gameplay com mísseis mágicos na tela, casando com o novo "po p
 
 ---
 
-### 1:18 – 1:33 | Rush da Soph
-**Tipo:** Anime  
-Uma ou mais cenas de Soph em rush: disparando mísseis e obliterando inimigos em sequência acelerada.
-
----
-
-### 1:34 | Pausa dramática — entrada do Boss
-**Tipo:** Anime  
-Som de pausa dramática na música. Um Boss dragão humanoide branco com detalhes dourados aterrissa bloqueando o avanço da Soph. O impacto da aterrissagem é tão brutal que ela é arremessada para trás.
+### 1:18 – 1:34 | Rush da Soph + entrada do Boss
+**Tipo:** Gameplay (mockup)  
+Soph em rush: disparando mísseis e obliterando inimigos. O Boss dragão humanoide branco com detalhes dourados aterrissa ocupando a tela inteira e arremessa Soph para a esquerda. Transição para anime com ela caindo em câmera lenta.
 
 ---
 
